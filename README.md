@@ -1,6 +1,6 @@
 Name : Madiha Munawar
 Id : ICOD7369
-Domain : We Development
+Domain : Web Development
 Duration: 25 April 2024 to 25 May 2024
 Mentor : Sravani Gouni
 Description : A To-Do list is a straightforward yet highly effective tool for managing tasks, goals, and responsibilities. It provides individuals with a simple way to keep track of things that need to be done, whether they are personal tasks, work-related activities, or a mix of both. The simplicity of a To-Do list lies in its ability to adapt to a variety of uses, from daily routines to large-scale projects, allowing users to maintain a sense of control and organization.
